@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuerreroWebAPIFINAL.API", "GuerreroWebAPIFINAL.API\GuerreroWebAPIFINAL.API.csproj", "{DB2870C9-3E52-4072-A9D3-FA271636E819}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuerreroWebAPIFINAL.CORE", "GuerreroWebAPIFINAL.CORE\GuerreroWebAPIFINAL.CORE.csproj", "{0CF980DA-79A4-492E-A6D5-C8AEC1E199B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuerreroWebAPIFINAL.INFRASTRUCTURE", "GuerreroWebAPIFINAL.INFRASTRUCTURE\GuerreroWebAPIFINAL.INFRASTRUCTURE.csproj", "{0E7462C1-C4E4-4019-9567-AC65331063A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB2870C9-3E52-4072-A9D3-FA271636E819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB2870C9-3E52-4072-A9D3-FA271636E819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB2870C9-3E52-4072-A9D3-FA271636E819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB2870C9-3E52-4072-A9D3-FA271636E819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CF980DA-79A4-492E-A6D5-C8AEC1E199B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF980DA-79A4-492E-A6D5-C8AEC1E199B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CF980DA-79A4-492E-A6D5-C8AEC1E199B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF980DA-79A4-492E-A6D5-C8AEC1E199B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E7462C1-C4E4-4019-9567-AC65331063A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E7462C1-C4E4-4019-9567-AC65331063A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E7462C1-C4E4-4019-9567-AC65331063A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E7462C1-C4E4-4019-9567-AC65331063A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {360205FF-A3BD-4E23-B89B-7BC4AC2801CA}
+	EndGlobalSection
+EndGlobal
